@@ -6,11 +6,10 @@
   <br>
 I enrolled into General Assembly's Software Engineering Immersive Bootcamp to build upon my skills as an Interaction Designer. After 3 intense months in the program, I developed frontend and backend skills. Some skills include:</details>
 
-<sub>*Skills*</sub>
-  <br>
-<sub>☛ **Technical:** Javascript, Python, HTML, CSS, Embedded Javascript (EJS), Node.js, Express.js, jQuery, Django, TypeScript, React.js, Redux, MongoDB, Mongoose, PostgreSQL, MySQL, SQL, NoSQL, Git, Github, RESTful Routing JSON, APIs</sub>
+#### *Skills*
+##### ☛ **Technical:** Javascript, Python, HTML, CSS, Embedded Javascript (EJS), Node.js, Express.js, jQuery, Django, TypeScript, React.js, Redux, MongoDB, Mongoose, PostgreSQL, MySQL, SQL, NoSQL, Git, Github, RESTful Routing JSON, APIs
 
-<sub>☛ ***Specialties:*** Programming: Web applications, Object-Oriented Programming, Fundamental Data Structures</sub>
+###### ☛ ***Specialties:*** Programming: Web applications, Object-Oriented Programming, Fundamental Data Structures
 ###### •
 <details><summary>🫶 2020-2021:</summary>
   <br>
