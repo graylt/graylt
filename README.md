@@ -1,5 +1,5 @@
 #### ☻ **Present:**
-### *(she/her)* ***Tricia Gray*** develops interactive experiences.
+### *(she/her)* Tricia Gray develops interactive experiences.
 #### With a multi-disciplinary background in art, design and technology, her work is able to bridge the gap between design and development.
 ###### •
 <details><summary>💻 2022:</summary>
