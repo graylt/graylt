@@ -2,7 +2,7 @@
 ### *(she/her)* Tricia Gray develops interactive experiences.
 #### With a multi-disciplinary background in art, design and technology, her work is able to bridge the gap between design and development.
 ###### •
-<details><summary>💻 2022:<sub>read more</sub></summary>
+<details><summary>💻 2022:<sub> read more</sub></summary>
   <br>
 I enrolled into General Assembly's Software Engineering Immersive Bootcamp to build upon my skills as an Interaction Designer. After 3 intense months in the program, I developed frontend and backend skills. Some skills include:</details>
 
