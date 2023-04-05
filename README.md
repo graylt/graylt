@@ -9,7 +9,7 @@ I enrolled into General Assembly's Software Engineering Immersive Bootcamp to bu
 ###### *Skills*
 ##### → **Technical:** Javascript, Python, HTML, CSS, Embedded Javascript (EJS), Node.js, Express.js, jQuery, Django, TypeScript, React.js, Redux, MongoDB, Mongoose, PostgreSQL, MySQL, SQL, NoSQL, Git, Github, RESTful Routing JSON, APIs
 
-###### → ***Specialties:*** 
+###### ***Specialties*** 
 ###### → **Programming:** Web applications, Object-Oriented Programming, Fundamental Data Structures
 ###### •
 <details><summary><b>🫶 2020-2021:</b></summary>
@@ -19,7 +19,7 @@ Inspired by <a href="https://bookshop.org/p/books/invisible-women-data-bias-in-a
 ###### *Skills*
 ##### → **Creative:** UX/UI, User Research, Design Strategy, Usability Testing, Prototyping, Interaction Design, Rapid Ideation, Information Architecture, Competitive Analysis, Agile Methodology, Web Accessibility, Product Management, Adobe Creative Cloud, Figma, Sketch, InVision, Miro
 
-###### → ***Specialties:*** 
+###### ***Specialties*** 
 ###### → **Design:** User Experience, Interaction Design, Information Design, Visual Design, Product Design
 ###### •
 <details><summary><b>2019-🥚:</b></summary>
