@@ -15,6 +15,7 @@ I enrolled into General Assembly's Software Engineering Immersive Bootcamp to bu
 <details><summary><b>🫶 2020-2021:</b></summary>
   <br>
 Inspired by <a href="https://bookshop.org/p/books/invisible-women-data-bias-in-a-world-designed-for-men-caroline-criado-perez/15136602?ean=9781419735219">Invisible Women</a> and a need for a career change, I went back to school to earn a Master's in User Experience Design from MICA in 2021. During the program, I developed a passion towards building considered human connections through visual experiences. Some skills learned include:</details>
+
 ###### *Skills*
 ##### → **Creative:** UX/UI, User Research, Design Strategy, Usability Testing, Prototyping, Interaction Design, Rapid Ideation, Information Architecture, Competitive Analysis, Agile Methodology, Web Accessibility, Product Management, Adobe Creative Cloud, Figma, Sketch, InVision, Miro
 
